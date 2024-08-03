@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Devs 👋
 
 <!--
 **DucTrinh244/DucTrinh244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
